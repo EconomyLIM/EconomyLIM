@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-<br>
-<br>
 <hr>
-### Skill😎<br>
+## Skill😎 <br>
+
 <p><strong>Backend</strong></p>
 <div>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
