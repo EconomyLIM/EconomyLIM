@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-### Hello World! 👋 <br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&theme=radical)
-
 <br>
 <br>
-
+<hr>
 ### Skill😎<br>
 <p><strong>Backend</strong></p>
 <div>
@@ -53,7 +49,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
 </div>
-
+<hr>
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&theme=radical)
 
 
 
