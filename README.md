@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&theme=radical)
+
 </div>
 
