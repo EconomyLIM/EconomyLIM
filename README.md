@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ddd
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 <hr>
-## <strong>skill🌱</strong> 
+
+### <strong>skill🌱</strong> 
 
 <p><strong>Backend</strong></p>
 <div>
