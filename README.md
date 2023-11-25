@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-# Skill😎 <br>
+
 <p><strong>Backend</strong></p>
 <div>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
 </div>
 
-# Skill😎 <br>
+
 
 
  
