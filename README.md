@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### <strong>skill🌱</strong> 
+##### <strong>skill🌱</strong> 
 
 <p><strong>Backend</strong></p>
 <div>
