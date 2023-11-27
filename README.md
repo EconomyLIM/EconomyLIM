@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
 
 <hr>
+
 ### <strong>skill🌱</strong> 
 
 <p><strong>Backend</strong></p>
