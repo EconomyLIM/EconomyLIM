@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&theme=radical)
 
 <hr>
-
+[블로그 바로가기](https://blog.naver.com/economy255)
+<hr>
 ### <strong>skill🌱</strong> 
 
 <p><strong>Backend</strong></p>
