@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-[<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
+[<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
 
 <hr>
 ### <strong>skill🌱</strong> 
