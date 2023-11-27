@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&theme=radical)
 
 <hr>
-
+블로그 바로 가기 ✔👉
 [<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
 
 <hr>
