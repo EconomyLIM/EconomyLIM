@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-블로그 바로 가기 👉
+# 블로그 바로 가기 👉
 [<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
 
 <hr>
