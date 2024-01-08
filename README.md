@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact">
 </p>
 
 <hr>
