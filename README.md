@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EconomyLIM)]
 
 <hr>
 
