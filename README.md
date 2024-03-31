@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 블로그 바로 가기 👉
 [<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
+[<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://blog.naver.com/economy255)
 
 <hr>
 
