@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
   //<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact"> <br>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmw4117)](https://solved.ac/bmw4117)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={bmw4117})](https://solved.ac/{bmw4117})
 </p>
 
 <hr>
