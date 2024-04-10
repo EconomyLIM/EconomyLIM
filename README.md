@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-<p>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
-  //<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact"> <br>
-
-</p>
-
-[![Solved.ac
+ [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bmw4117 )](https://solved.ac/bmw4117)
+</div>
+
 <hr>
 
 개발 블로그 👉
