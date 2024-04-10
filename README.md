@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bmw4117 )](https://solved.ac/bmw4117)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bmw4117 )](https://solved.ac/bmw4117)
 </div>
 
 <hr>
