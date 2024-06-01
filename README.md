@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 개발 블로그 👉
 [<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">](https://blog.naver.com/economy255)
 [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) (이관 작업중)
-
 <hr>
 
 ### <strong>skill🌱</strong> 
