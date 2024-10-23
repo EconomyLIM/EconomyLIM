@@ -56,7 +56,8 @@ Blog: [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=black">
 </div>
 <p><strong>Server</strong></p>
 <div>
