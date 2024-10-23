@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  - 🌱 Hello world
  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true"> &nbsp;
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmw4117)](https://solved.ac/bmw4117)
 <hr>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmw4117)](https://solved.ac/bmw4117)
 개발 블로그 👉 [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
 </div>
 
