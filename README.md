@@ -26,10 +26,9 @@ Here are some ideas to get you started:
   ![eco's backjoon](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bmw4117)
   
 <hr>
-
-개발 블로그 👉 [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
-
 </div>
+
+Blog: [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
 
 ### <strong>skill🌱</strong> 
 <p><strong>Backend</strong></p>
