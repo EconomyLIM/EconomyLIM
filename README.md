@@ -49,13 +49,13 @@ Blog: [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 </div> 
 <br/>
-<br/>
 <p><strong>Front end</strong></p>
 <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
 </div>
 <p><strong>Server</strong></p>
 <div>
