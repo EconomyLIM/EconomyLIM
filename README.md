@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - **🧠 I am currently working as a Web Enginner.**
 - **🌱 Currently learning: Spring Boot, Java.**
 - **🧙️‍♂️ Ask me about: Java, Spring Boot.**
+- **⚡ How to reach me:** [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
 
 # Teck Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -44,11 +45,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-Blog: [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
-
 ### <strong>skill🌱</strong> 
-<p><strong>Backend</strong></p>
-<div>
  
 </div> 
 <br/>
