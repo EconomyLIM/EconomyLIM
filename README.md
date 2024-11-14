@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- **✨ Pronouns: She/Her.**
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 -->
 
 # Hi there. I'm GyeongJae 👋. Welcome to my Profile
 
-<ul>
- <li> I am currently working as a Web Enginner</li>
- <li> Currently learning: Spring Boot 3.x.x </li>
-</ul>
+- **🧠 I am currently working as a Web Enginner.**
+- **🌱 Currently learning: Spring Boot, Java.**
+- **🧙️‍♂️ Ask me about: Java, Spring Boot.**
 
 # Teck Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
