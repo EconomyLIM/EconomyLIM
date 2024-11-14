@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - **✨ Pronouns: She/Her.**
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+[<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
 -->
 
 # Hi there. I'm GyeongJae 👋. Welcome to my Profile
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - **🧠 I am currently working as a Web Enginner.**
 - **🌱 Currently learning: Spring Boot, Java.**
 - **🧙️‍♂️ Ask me about: Java, Spring Boot.**
-- **⚡ How to reach me:** [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
+- **⚡ How to reach me:** <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=black"> (https://eco-dev.tistory.com/)
 
 # Teck Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -32,8 +33,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=black">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">  
 </div>
 
