@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20EconomyLim's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 -->
 
+# Hi there. I'm GyeongJae 👋. Welcome to my Profile
+<hr>
+<ul>
+ <li> I am currently working as a Web Enginner</li>
+ <li> Currently learning: Spring Boot 3.x.x </li>
+</ul>
+
 <div align="center">
  <br>
  - 🌱 Hello world
