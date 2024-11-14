@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there. I'm GyeongJae 👋. Welcome to my Profile
-<hr>
+
 <ul>
  <li> I am currently working as a Web Enginner</li>
  <li> Currently learning: Spring Boot 3.x.x </li>
