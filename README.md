@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **🧠 I am currently working as a Web Enginner.**
 - **🌱 Currently learning: Spring Boot, Java.**
 - **🧙️‍♂️ Ask me about: Java, Spring Boot.**
-- **⚡ How to reach me:** <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=black"> (https://eco-dev.tistory.com/)
+- **⚡ How to reach me:** <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=black">(https://eco-dev.tistory.com/)
 
 # Teck Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
