@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # **Hi there. I'm GyeongJae 👋. Welcome to my Profile**
 
 - **🧠 I am currently working as a Web Developer.**
-- **🌱 Currently learning: Java, Spring Boot.**
+- **🌱 Currently learning: JPA.**
 - **🧙️‍♂️ Ask me about: Java, Spring Boot.**
 - **⚡ How to reach me:** [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
 
