@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - **🧙️‍♂️ Ask me about: Java, Spring Boot.**
 - **⚡ How to reach me:** [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://eco-dev.tistory.com/) 
 
-# **Teck Stack**
+# **Tech Stack**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
