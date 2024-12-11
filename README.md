@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
   </div>
   <div style="width: 50%;">
+    ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyLim&langs_count=6&layout=compact&theme=white)](https://github.com/EconomyLIM)
   </div>
 </div>
 
@@ -57,6 +58,8 @@ Here are some ideas to get you started:
  <br>
  
   ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyLim&langs_count=6&layout=compact&theme=white)](https://github.com/EconomyLIM/EconomyLIM)
+
+   [![Economy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
    
   ![eco's backjoon](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bmw4117)
   
