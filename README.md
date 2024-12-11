@@ -45,8 +45,6 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
   </div>
   <div style="width: 50%;">
-    
-    [![Economy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EconomyLIM)](https://github.com/EconomyLIM/github-readme-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyLim&langs_count=6&layout=compact&theme=white)](https://github.com/EconomyLIM/EconomyLIM)
   
   </div>
