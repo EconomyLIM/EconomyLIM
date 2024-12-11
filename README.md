@@ -49,6 +49,11 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula)
+
+[![Economy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EconomyLIM)](https://github.com/EconomyLIM/github-readme-stats)
+
+
 <!--
 <div align="center">
  <br>
