@@ -46,11 +46,9 @@ Here are some ideas to get you started:
   </div>
   <div style="width: 50%;">
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyLim&langs_count=6&layout=compact&theme=white)](https://github.com/EconomyLIM/EconomyLIM)
-  
   </div>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyLim&langs_count=6&layout=compact&theme=white)](https://github.com/EconomyLIM/EconomyLIM)
 <!--
 <div align="center">
  <br>
