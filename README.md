@@ -56,6 +56,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true"> &nbsp;
  <br>
  
+  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyLim&langs_count=6&layout=compact&theme=white)](https://github.com/EconomyLim)
+   
   ![eco's backjoon](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bmw4117)
   
 <hr>
