@@ -40,17 +40,6 @@ Here are some ideas to get you started:
 </div>
 
 # **My Stats**
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 40%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
-  </div>
-  <div style="width: 60%;">
-    
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula)
-    
-  </div>
-</div>
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula" alt="Top Languages"/>
@@ -72,6 +61,17 @@ Here are some ideas to get you started:
   ![eco's backjoon](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bmw4117)
   
 <hr>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 40%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
+  </div>
+  <div style="width: 60%;">
+    
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula)
+    
+  </div>
 </div>
 -->
 
