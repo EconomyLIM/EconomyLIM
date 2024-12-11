@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 # **My Stats**
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 50%;">
+  <div style="width: 40%;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true">
   </div>
-  <div style="width: 50%;">
+  <div style="width: 60%;">
     
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula)
     
