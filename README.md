@@ -51,16 +51,11 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true" />
-    </td>
-    <td align="right" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EconomyLIM&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EconomyLIM&layout=compact&theme=dracula" alt="Top Languages"/>
+</div>
+
 
 <!--
 <div align="center">
